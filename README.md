@@ -1,2 +1,2 @@
-# ayudaPeludo
-Adopción de animales en situación de calle
+# pgy_proyecto1
+proyecto para la asignatura de PGY Hola Mundo
